@@ -1,0 +1,53 @@
+.facebook-head {
+  background-color: #3b5998;
+}
+
+.facebook-text {
+  color: white;
+  text-align: center;
+}
+
+.text-field {
+  width: 100%;
+  border-radius: 0.2em;
+  height: 3em;
+}
+
+.button-login {
+  background-color: #4267b2;
+  border: none;
+  border-radius: 0.2em;
+  color: white;
+  margin-top: 5px;
+  height: 3em;
+}
+
+.button-signup {
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 0.2em;
+  color: white;
+  height: 3em;
+}
+
+.signup-button {
+  text-align: center;
+}
+
+.forgot {
+  color: #365899;
+  text-align: center;
+  margin-top: 8px;
+}
+
+body {
+  background-color: #f7f7f7;
+}
+
+p {
+  text-align: center;
+}
+
+.language {
+  font-size: 10px;
+}
